@@ -1,0 +1,39 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background-color: slategray;
+}
+
+h1 {
+  color: orange;
+  font-style: italic;
+}
+
+button {
+  color: whitesmoke;
+  font-size: 20px;
+  border-style: solid;
+  border-width: 1px;
+  height: 50px;
+  width: 200px;
+  margin-bottom: 20px;
+  border-radius: 50px;
+}
+
+#facebook-button {
+  background-color: royalblue;
+}
+
+#twitter-button {
+  background-color: dodgerblue;
+}
+
+#github-button {
+  background-color: black;
+  color: white;
+}
+
+#google-button {
+  background-color: white;
+  color: black;
+}
